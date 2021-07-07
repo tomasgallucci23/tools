@@ -1,3 +1,3 @@
-module github.com/tomidev/tools
+module github.com/tomigallucci/tools
 
 go 1.16

@@ -1,3 +1,3 @@
-module github.com/tomidev/tools/gio
+module github.com/tomigallucci/tools/gio
 
 go 1.16
